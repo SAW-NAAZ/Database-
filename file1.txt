@@ -4,7 +4,4 @@ hello and welcome to the session
 echo good morning
 hello and welcome to the session
 echo good morning
-hello and welcome to the session
-echo good morning
-hello and welcome to the session
-echo good morning
+
